@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"python.languageServer": "Pylance",
-		"circuitpython.board.version": "7.1.0-beta.3",
+		"circuitpython.board.version": "7.2.0",
 		"circuitpython.board.vid": "0x239A",
 		"circuitpython.board.pid": "0x8106",
 		"python.linting.pylintEnabled": false,
@@ -16,7 +16,7 @@
 		"python.analysis.extraPaths": [
 			"/Users/zdz/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.15/boards/0x239A/0x8106",
 			"/Users/zdz/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.15/stubs",
-			"/Users/zdz/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20211225/adafruit-circuitpython-bundle-py-20211225/lib"
+			"/Users/zdz/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20220228/adafruit-circuitpython-bundle-7.x-mpy-20220228/lib"
 		]
 	}
 }
